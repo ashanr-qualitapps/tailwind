@@ -1,8 +1,16 @@
 <template>
-    <div class="about-page">
-      <h1>About Us</h1>
-      <p>Welcome to our company! We are dedicated to delivering the best services to our clients.</p>
-      <button>Learn More</button>
+    <div class="about-page bg-gray-100 min-h-screen p-8">
+      <h1 class="text-4xl font-bold text-gray-800 mb-4">About Us</h1>
+      <p class="text-lg text-gray-600 mb-6">
+        Welcome to our company! We are dedicated to delivering the best services to our clients.
+      </p>
+      <button class="bg-accent text-white font-semibold py-2 px-4 rounded-lg shadow-lg hover:bg-accent-dark">
+        Learn More
+      </button>
+  
+      <h1 class="text-3xl font-bold underline text-gray-800 mt-10">
+        Hello world!
+      </h1>
     </div>
   </template>
   
