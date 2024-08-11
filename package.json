@@ -11,8 +11,8 @@
     "lintfix": "eslint --fix --ext .js,.vue ."
   },
   "dependencies": {
-    "nuxt": "latest",
-    "@nuxtjs/tailwindcss": "^5.0.3"
+    "@nuxtjs/tailwindcss": "^5.0.3",
+    "nuxt": "latest"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
